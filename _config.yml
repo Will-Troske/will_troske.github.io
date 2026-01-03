@@ -23,7 +23,7 @@ repository               : "Will-Troske/will-troske.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot.jpg"
   name             : "Will Troske"
   pronouns         : # example: "He/Him"  
   bio              : "Environment and Trade Economist"
